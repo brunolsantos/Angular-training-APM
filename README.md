@@ -1,6 +1,6 @@
 # Angular-training
 
-This project was created by Deborah Kurata and it is currently under Pluralsight list of coueses for Angular learning path.
+This project was created by Deborah Kurata and it is currently under Pluralsight list of coueses for [Angular learning path.](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
 ## Topics learned in this course
 * Introduction to Components
